@@ -12,7 +12,12 @@
     "@clerk/clerk-react": "^1.13.0",
     "next": "^11.0.1",
     "react": "^17.0.2",
+<<<<<<< HEAD
     "react-dom": "^17.0.2"
+=======
+    "react-dom": "^17.0.2",
+    "tailwindcss": "^2.2.4"
+>>>>>>> 1280d0c8ad4c2991cbce972e4c00ea60cfb37153
   },
   "devDependencies": {
     "vercel": "^23.0.1"
