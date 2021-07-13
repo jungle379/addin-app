@@ -120,7 +120,19 @@ const Home = () => (
         content="width=device-width, initial-scale=1.0"
       ></meta>
     </Head>
-    <Main />
+    <Main>
+      <div>
+        <h1>
+          <Link href="../result">今週の予想</Link>
+        </h1>
+        <h2>
+          <Link href="../memo">好走記録</Link>
+        </h2>
+	      <h3>
+	        <Link href="../trend">傾向</Link>
+	      </h3>
+      </div>
+      </Main>
     <Footer />
   </div>
 );
