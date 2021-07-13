@@ -1,8 +1,7 @@
 import Link from "next/link";
-import type { VFC } from "react";
 import Layout from "src/components/layout";
 
-const Grass: VFC = () => {
+const Grass = () => {
   return <Layout>
     <div>芝の勝利馬</div>
     <h1>

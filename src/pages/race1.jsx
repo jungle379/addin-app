@@ -1,7 +1,6 @@
-import type { VFC } from "react";
 import Layout from "src/components/layout";
 
-const Race1: VFC = () => {
+const Race1 = () => {
   return <Layout>
     <div>宝塚記念・阪神2200m(内)</div>
     <div>枠傾向</div>

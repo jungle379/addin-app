@@ -1,7 +1,6 @@
-import type { VFC } from "react";
 import { Layout } from "src/components/layout";
 
-const Data1: VFC = () => {
+const Data1 = () => {
   return <Layout>
     <div>完了形の高みへと至った者たち(現役馬)</div>
     <div>G1</div>
@@ -17,8 +16,6 @@ const Data1: VFC = () => {
     <li>ポタジェ(ディープインパクト×オーサムアゲイン)</li>
     <ul>・クラシック非出走馬。しかしながら、Pre-OP〜OP、G3と着実に勝ち星をあげ、G2の金鯱賞でもあわや1着というところまでいった</ul>
     <ul>・常に前目につける競馬が出来、馬自身も前進気勢のため好走していると思われる。ピークが終わり大敗するまで買い続けるのが吉</ul>
-    <li>カレンブーケドール(ディープインパクト×スキャットダディ)</li>
-    <ul>・当代切ってのお嬢様馬。1勝クラスの馬ながら重賞のランクを問わず馬券内に収まるのは流石の一言</ul>
     <li></li>
     <ul>・</ul>
     <ul>・</ul>
