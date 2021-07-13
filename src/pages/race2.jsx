@@ -1,4 +1,4 @@
-import Layout from "src/components/layout";
+import Layout from "../src/components/layout";
 
 const Race2 = () => {
   return <Layout>

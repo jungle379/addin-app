@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Layout from "src/components/layout";
+import Layout from "../src/components/layout";
 
 const Grass = () => {
   return <Layout>
