@@ -1,4 +1,4 @@
-import { Layout } from "src/components/layout";
+import Layout from "src/components/layout";
 
 const Data1 = () => {
   return <Layout>
